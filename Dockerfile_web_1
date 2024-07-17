@@ -1,6 +1,5 @@
 # Use the latest Ubuntu LTS as the base image
-FROM alpine:latest
-
+From Ubuntu 20.4
 # Set the DEBIAN_FRONTEND to noninteractive to suppress prompts during package installation
 ENV DEBIAN_FRONTEND=noninteractive
 
